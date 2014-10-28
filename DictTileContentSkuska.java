@@ -15,6 +15,12 @@ import javax.swing.SwingUtilities;
 import mahjong.dict_tile_content.DictTileContent;
 import mahjong.gui.TileContentComponent;
 
+/**
+ * This is really fun ;-)
+ * 
+ * @author aifargonos
+ *
+ */
 public class DictTileContentSkuska extends JPanel implements ComponentListener, KeyListener {
 	
 	private static final long serialVersionUID = -2497266671431567422L;
