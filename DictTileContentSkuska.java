@@ -17,6 +17,7 @@ import mahjong.gui.TileContentComponent;
 
 /**
  * This is really fun ;-)
+ * And it actually works :-P
  * 
  * @author aifargonos
  *
