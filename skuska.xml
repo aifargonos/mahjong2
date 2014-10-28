@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kanjiTileContents>
+<kanjiTileContent text="fire" dir="1"><association>カ</association><association>ひ</association><association>火</association></kanjiTileContent>
+<kanjiTileContent text="カ" dir="2"><association>ひ</association><association>火</association><association>fire</association></kanjiTileContent>
+<kanjiTileContent text="火" dir="2"><association>カ</association><association>ひ</association><association>fire</association></kanjiTileContent>
+<kanjiTileContent text="sun, day, light" dir="1"><association>ニチ</association><association>ひ</association><association>日</association></kanjiTileContent>
+<kanjiTileContent text="ニチ" dir="2"><association>sun, day, light</association><association>日</association><association>ひ</association></kanjiTileContent>
+<kanjiTileContent text="日" dir="2"><association>sun, day, light</association><association>ニチ</association><association>ひ</association></kanjiTileContent>
+<kanjiTileContent text="ひ" dir="2"><association>カ</association><association>sun, day, light</association><association>日</association><association>ニチ</association><association>火</association><association>fire</association></kanjiTileContent>
+</kanjiTileContents>

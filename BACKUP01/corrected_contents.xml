@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictTileContents>
+<dictTileContent text="糸" dir="2"><association>thread</association><association>いと</association><association>シ</association></dictTileContent>
+<dictTileContent text="いと" dir="2"><association>thread</association><association>糸</association></dictTileContent>
+<dictTileContent text="thread" dir="1"><association>いと</association><association>糸</association><association>シ</association></dictTileContent>
+<dictTileContent text="シ" dir="2"><association>child</association><association>子</association><association>thread</association><association>4</association><association>糸</association><association>私</association><association>四</association><association>private</association></dictTileContent>
+<dictTileContent text="四" dir="2"><association>4</association><association>よん</association><association>シ</association><association>よっ・つ</association></dictTileContent>
+<dictTileContent text="よっ・つ" dir="2"><association>4</association><association>四</association></dictTileContent>
+<dictTileContent text="よん" dir="2"><association>4</association><association>四</association></dictTileContent>
+<dictTileContent text="4" dir="0"><association>よん</association><association>シ</association><association>四</association><association>よっ・つ</association></dictTileContent>
+<dictTileContent text="貝" dir="2"><association>shellfish</association><association>かい</association></dictTileContent>
+<dictTileContent text="かい" dir="2"><association>貝</association><association>shellfish</association></dictTileContent>
+<dictTileContent text="shellfish" dir="1"><association>貝</association><association>かい</association></dictTileContent>
+<dictTileContent text="米" dir="2"><association>America</association><association>rice</association><association>こめ</association><association>ベイ</association></dictTileContent>
+<dictTileContent text="こめ" dir="2"><association>rice</association><association>米</association></dictTileContent>
+<dictTileContent text="rice" dir="0"><association>こめ</association><association>ベイ</association><association>米</association></dictTileContent>
+<dictTileContent text="ベイ" dir="2"><association>America</association><association>rice</association><association>米</association></dictTileContent>
+<dictTileContent text="America" dir="1"><association>ベイ</association><association>米</association></dictTileContent>
+<dictTileContent text="竹" dir="2"><association>bamboo</association><association>チク</association><association>たけ</association></dictTileContent>
+<dictTileContent text="たけ" dir="2"><association>bamboo</association><association>竹</association></dictTileContent>
+<dictTileContent text="チク" dir="2"><association>bamboo</association><association>竹</association></dictTileContent>
+<dictTileContent text="bamboo" dir="1"><association>竹</association><association>チク</association><association>たけ</association></dictTileContent>
+<dictTileContent text="雨" dir="2"><association>ウ</association><association>rain</association><association>あめ</association></dictTileContent>
+<dictTileContent text="あめ" dir="2"><association>雨</association><association>rain</association></dictTileContent>
+<dictTileContent text="rain" dir="0"><association>雨</association><association>ウ</association><association>あめ</association></dictTileContent>
+<dictTileContent text="ウ" dir="2"><association>雨</association><association>right</association><association>rain</association><association>右</association></dictTileContent>
+<dictTileContent text="右" dir="2"><association>みぎ</association><association>right</association><association>ウ</association></dictTileContent>
+<dictTileContent text="みぎ" dir="2"><association>right</association><association>右</association></dictTileContent>
+<dictTileContent text="right" dir="1"><association>みぎ</association><association>右</association><association>ウ</association></dictTileContent>
+<dictTileContent text="十" dir="2"><association>10</association><association>とお</association><association>ジュウ</association></dictTileContent>
+<dictTileContent text="とお" dir="2"><association>10</association><association>十</association></dictTileContent>
+<dictTileContent text="ジュウ" dir="2"><association>10</association><association>十</association></dictTileContent>
+<dictTileContent text="10" dir="0"><association>とお</association><association>十</association><association>ジュウ</association></dictTileContent>
+<dictTileContent text="九" dir="2"><association>キュウ</association><association>ここの・つ</association><association>9</association></dictTileContent>
+<dictTileContent text="ここの・つ" dir="2"><association>九</association><association>9</association></dictTileContent>
+<dictTileContent text="キュウ" dir="2"><association>九</association><association>9</association></dictTileContent>
+<dictTileContent text="9" dir="0"><association>九</association><association>キュウ</association><association>ここの・つ</association></dictTileContent>
+<dictTileContent text="八" dir="2"><association>やっ・つ</association><association>ハチ</association><association>8</association></dictTileContent>
+<dictTileContent text="やっ・つ" dir="2"><association>八</association><association>8</association></dictTileContent>
+<dictTileContent text="ハチ" dir="2"><association>八</association><association>8</association></dictTileContent>
+<dictTileContent text="8" dir="0"><association>やっ・つ</association><association>八</association><association>ハチ</association></dictTileContent>
+<dictTileContent text="七" dir="2"><association>7</association><association>なな・つ</association><association>シチ</association></dictTileContent>
+<dictTileContent text="なな・つ" dir="2"><association>7</association><association>七</association></dictTileContent>
+<dictTileContent text="シチ" dir="2"><association>7</association><association>七</association></dictTileContent>
+<dictTileContent text="7" dir="0"><association>なな・つ</association><association>七</association><association>シチ</association></dictTileContent>
+<dictTileContent text="六" dir="2"><association>6</association><association>ロク</association><association>むっ・つ</association></dictTileContent>
+<dictTileContent text="むっ・つ" dir="2"><association>6</association><association>六</association></dictTileContent>
+<dictTileContent text="ロク" dir="2"><association>6</association><association>六</association></dictTileContent>
+<dictTileContent text="6" dir="0"><association>ロク</association><association>むっ・つ</association><association>六</association></dictTileContent>
+<dictTileContent text="五" dir="2"><association>いつ・つ</association><association>5</association><association>ゴ</association></dictTileContent>
+<dictTileContent text="ゴ" dir="2"><association>五</association><association>5</association></dictTileContent>
+<dictTileContent text="いつ・つ" dir="2"><association>五</association><association>5</association></dictTileContent>
+<dictTileContent text="5" dir="0"><association>いつ・つ</association><association>五</association><association>ゴ</association></dictTileContent>
+<dictTileContent text="私" dir="2"><association>わたし</association><association>シ</association><association>private</association></dictTileContent>
+<dictTileContent text="わたし" dir="2"><association>私</association><association>private</association></dictTileContent>
+<dictTileContent text="private" dir="1"><association>わたし</association><association>私</association><association>シ</association></dictTileContent>
+<dictTileContent text="子" dir="2"><association>child</association><association>こ</association><association>シ</association></dictTileContent>
+<dictTileContent text="こ" dir="2"><association>child</association><association>子</association></dictTileContent>
+<dictTileContent text="child" dir="1"><association>こ</association><association>子</association><association>シ</association></dictTileContent>
+<dictTileContent text="二" dir="2"><association>2</association><association>ふた・つ</association><association>ニ</association></dictTileContent>
+<dictTileContent text="ふた・つ" dir="2"><association>2</association><association>二</association></dictTileContent>
+<dictTileContent text="ニ" dir="2"><association>2</association><association>二</association></dictTileContent>
+<dictTileContent text="2" dir="0"><association>ふた・つ</association><association>ニ</association><association>二</association></dictTileContent>
+<dictTileContent text="一" dir="2"><association>ひと・つ</association><association>1</association><association>イチ</association></dictTileContent>
+<dictTileContent text="ひと・つ" dir="2"><association>1</association><association>一</association></dictTileContent>
+<dictTileContent text="イチ" dir="2"><association>1</association><association>一</association></dictTileContent>
+<dictTileContent text="1" dir="0"><association>ひと・つ</association><association>一</association><association>イチ</association></dictTileContent>
+<dictTileContent text="三" dir="2"><association>3</association><association>サン</association><association>みっ・つ</association></dictTileContent>
+<dictTileContent text="みっ・つ" dir="2"><association>3</association><association>三</association></dictTileContent>
+<dictTileContent text="3" dir="0"><association>三</association><association>サン</association><association>みっ・つ</association></dictTileContent>
+<dictTileContent text="サン" dir="2"><association>3</association><association>三</association><association>mountain</association><association>山</association></dictTileContent>
+<dictTileContent text="山" dir="2"><association>mountain</association><association>サン</association><association>やま</association></dictTileContent>
+<dictTileContent text="やま" dir="2"><association>mountain</association><association>山</association></dictTileContent>
+<dictTileContent text="mountain" dir="1"><association>サン</association><association>やま</association><association>山</association></dictTileContent>
+<dictTileContent text="足" dir="2"><association>leg</association><association>た・す</association><association>ソク</association><association>pair</association><association>to be enough</association><association>あし</association><association>た・りる</association><association>た・る</association><association>to add</association></dictTileContent>
+<dictTileContent text="あし" dir="2"><association>leg</association><association>足</association></dictTileContent>
+<dictTileContent text="leg" dir="0"><association>あし</association><association>足</association></dictTileContent>
+<dictTileContent text="た・りる" dir="2"><association>to be enough</association><association>足</association></dictTileContent>
+<dictTileContent text="た・る" dir="2"><association>to be enough</association><association>足</association></dictTileContent>
+<dictTileContent text="to be enough" dir="1"><association>た・りる</association><association>足</association><association>た・る</association></dictTileContent>
+<dictTileContent text="た・す" dir="2"><association>足</association><association>to add</association></dictTileContent>
+<dictTileContent text="to add" dir="1"><association>た・す</association><association>足</association></dictTileContent>
+<dictTileContent text="ソク" dir="2"><association>pair</association><association>足</association></dictTileContent>
+<dictTileContent text="pair" dir="0"><association>ソク</association><association>足</association></dictTileContent>
+<dictTileContent text="手" dir="2"><association>hand</association><association>て</association><association>シュ</association></dictTileContent>
+<dictTileContent text="て" dir="2"><association>hand</association><association>手</association></dictTileContent>
+<dictTileContent text="hand" dir="1"><association>て</association><association>手</association></dictTileContent>
+<dictTileContent text="シュ" dir="2"><association>手</association></dictTileContent>
+<dictTileContent text="耳" dir="2"><association>ジ</association><association>みみ</association><association>ears</association></dictTileContent>
+<dictTileContent text="みみ" dir="2"><association>耳</association><association>ears</association></dictTileContent>
+<dictTileContent text="ジ" dir="2"><association>耳</association><association>ears</association></dictTileContent>
+<dictTileContent text="ears" dir="1"><association>ジ</association><association>みみ</association><association>耳</association></dictTileContent>
+<dictTileContent text="目" dir="2"><association>モク</association><association>item</association><association>め</association><association>eye</association></dictTileContent>
+<dictTileContent text="め" dir="2"><association>目</association><association>eye</association></dictTileContent>
+<dictTileContent text="eye" dir="0"><association>目</association><association>め</association></dictTileContent>
+<dictTileContent text="item" dir="1"><association>モク</association><association>目</association></dictTileContent>
+<dictTileContent text="モク" dir="2"><association>木</association><association>Thursday</association><association>wood</association><association>item</association><association>目</association></dictTileContent>
+<dictTileContent text="Thursday" dir="1"><association>モク</association><association>木</association></dictTileContent>
+<dictTileContent text="木" dir="2"><association>モク</association><association>Thursday</association><association>wood</association><association>tree</association><association>き</association></dictTileContent>
+<dictTileContent text="wood" dir="1"><association>モク</association><association>木</association><association>き</association></dictTileContent>
+<dictTileContent text="き" dir="2"><association>木</association><association>wood</association><association>tree</association></dictTileContent>
+<dictTileContent text="tree" dir="1"><association>木</association><association>き</association></dictTileContent>
+<dictTileContent text="林" dir="2"><association>リン</association><association>はやし</association><association>woods</association></dictTileContent>
+<dictTileContent text="はやし" dir="2"><association>林</association><association>woods</association></dictTileContent>
+<dictTileContent text="woods" dir="1"><association>林</association><association>はやし</association></dictTileContent>
+<dictTileContent text="リン" dir="2"><association>林</association></dictTileContent>
+<dictTileContent text="岩" dir="2"><association>いわ</association><association>ガン</association><association>rock</association></dictTileContent>
+<dictTileContent text="いわ" dir="2"><association>rock</association><association>岩</association></dictTileContent>
+<dictTileContent text="ガン" dir="2"><association>rock</association><association>岩</association></dictTileContent>
+<dictTileContent text="rock" dir="1"><association>いわ</association><association>ガン</association><association>岩</association></dictTileContent>
+<dictTileContent text="石" dir="2"><association>stone</association><association>いし</association><association>セキ</association></dictTileContent>
+<dictTileContent text="いし" dir="2"><association>石</association><association>stone</association></dictTileContent>
+<dictTileContent text="セキ" dir="2"><association>石</association><association>stone</association></dictTileContent>
+<dictTileContent text="stone" dir="1"><association>石</association><association>いし</association><association>セキ</association></dictTileContent>
+<dictTileContent text="間" dir="2"><association>interval</association><association>カン</association><association>あいだ</association></dictTileContent>
+<dictTileContent text="あいだ" dir="2"><association>interval</association><association>間</association></dictTileContent>
+<dictTileContent text="カン" dir="2"><association>interval</association><association>間</association></dictTileContent>
+<dictTileContent text="interval" dir="1"><association>間</association><association>カン</association><association>あいだ</association></dictTileContent>
+<dictTileContent text="森" dir="2"><association>forest</association><association>もり</association></dictTileContent>
+<dictTileContent text="もり" dir="2"><association>森</association><association>forest</association></dictTileContent>
+<dictTileContent text="forest" dir="1"><association>森</association><association>もり</association></dictTileContent>
+<dictTileContent text="男" dir="2"><association>ダン</association><association>おとこ</association><association>man</association></dictTileContent>
+<dictTileContent text="おとこ" dir="2"><association>男</association><association>man</association></dictTileContent>
+<dictTileContent text="ダン" dir="2"><association>男</association><association>man</association></dictTileContent>
+<dictTileContent text="man" dir="1"><association>ダン</association><association>男</association><association>おとこ</association></dictTileContent>
+<dictTileContent text="好" dir="2"><association>す・く</association><association>to like</association><association>コオ</association><association>この・む</association><association>い・い</association><association>よ・い</association></dictTileContent>
+<dictTileContent text="す・く" dir="2"><association>to like</association><association>好</association></dictTileContent>
+<dictTileContent text="この・む" dir="2"><association>to like</association><association>好</association></dictTileContent>
+<dictTileContent text="to like" dir="1"><association>す・く</association><association>この・む</association><association>好</association></dictTileContent>
+<dictTileContent text="い・い" dir="2"><association>good</association><association>好</association></dictTileContent>
+<dictTileContent text="よ・い" dir="2"><association>good</association><association>好</association></dictTileContent>
+<dictTileContent text="コオ" dir="2"><association>good</association><association>好</association></dictTileContent>
+<dictTileContent text="good" dir="1"><association>コオ</association><association>い・い</association><association>よ・い</association></dictTileContent>
+<dictTileContent text="体" dir="2"><association>body</association><association>タイ</association><association>からだ</association></dictTileContent>
+<dictTileContent text="からだ" dir="2"><association>body</association><association>体</association></dictTileContent>
+<dictTileContent text="タイ" dir="2"><association>body</association><association>体</association></dictTileContent>
+<dictTileContent text="body" dir="1"><association>タイ</association><association>体</association><association>からだ</association></dictTileContent>
+<dictTileContent text="休" dir="2"><association>to rest</association><association>やす・む</association><association>キョウ・ス</association></dictTileContent>
+<dictTileContent text="やす・む" dir="2"><association>to rest</association><association>休</association></dictTileContent>
+<dictTileContent text="キョウ・ス" dir="2"><association>to rest</association><association>休</association></dictTileContent>
+<dictTileContent text="to rest" dir="1"><association>やす・む</association><association>休</association><association>キョウ・ス</association></dictTileContent>
+<dictTileContent text="明" dir="2"><association>bright</association><association>あか・るい</association><association>メイ</association></dictTileContent>
+<dictTileContent text="あか・るい" dir="2"><association>明</association><association>bright</association></dictTileContent>
+<dictTileContent text="メイ" dir="2"><association>明</association><association>bright</association></dictTileContent>
+<dictTileContent text="bright" dir="1"><association>明</association><association>あか・るい</association><association>メイ</association></dictTileContent>
+<dictTileContent text="力" dir="2"><association>ちから</association><association>strength</association><association>リョク</association></dictTileContent>
+<dictTileContent text="ちから" dir="2"><association>力</association><association>strength</association></dictTileContent>
+<dictTileContent text="リョク" dir="2"><association>力</association><association>strength</association></dictTileContent>
+<dictTileContent text="strength" dir="1"><association>力</association><association>ちから</association><association>リョク</association></dictTileContent>
+<dictTileContent text="何" dir="2"><association>what</association><association>なに</association></dictTileContent>
+<dictTileContent text="なに" dir="2"><association>what</association><association>何</association></dictTileContent>
+<dictTileContent text="what" dir="1"><association>なに</association><association>何</association></dictTileContent>
+<dictTileContent text="半" dir="2"><association>ハン</association><association>half</association></dictTileContent>
+<dictTileContent text="ハン" dir="2"><association>half</association><association>半</association></dictTileContent>
+<dictTileContent text="half" dir="1"><association>ハン</association><association>半</association></dictTileContent>
+<dictTileContent text="本" dir="2"><association>もと</association><association>book</association><association>origin</association><association>ホン</association></dictTileContent>
+<dictTileContent text="もと" dir="2"><association>本</association><association>origin</association></dictTileContent>
+<dictTileContent text="origin" dir="1"><association>もと</association><association>本</association></dictTileContent>
+<dictTileContent text="ホン" dir="2"><association>本</association><association>book</association></dictTileContent>
+<dictTileContent text="book" dir="1"><association>本</association><association>ホン</association></dictTileContent>
+<dictTileContent text="小" dir="2"><association>ショウ</association><association>small</association><association>ちい・さい</association></dictTileContent>
+<dictTileContent text="ちい・さい" dir="2"><association>小</association><association>small</association></dictTileContent>
+<dictTileContent text="ショウ" dir="2"><association>小</association><association>small</association></dictTileContent>
+<dictTileContent text="small" dir="1"><association>小</association><association>ショウ</association><association>ちい・さい</association></dictTileContent>
+<dictTileContent text="大" dir="2"><association>おお・きい</association><association>ダイ</association><association>big</association></dictTileContent>
+<dictTileContent text="おお・きい" dir="2"><association>大</association><association>big</association></dictTileContent>
+<dictTileContent text="ダイ" dir="2"><association>大</association><association>big</association></dictTileContent>
+<dictTileContent text="big" dir="0"><association>おお・きい</association><association>大</association><association>ダイ</association></dictTileContent>
+<dictTileContent text="中" dir="2"><association>inside</association><association>middle</association><association>チュウ</association><association>なか</association></dictTileContent>
+<dictTileContent text="なか" dir="2"><association>inside</association><association>中</association></dictTileContent>
+<dictTileContent text="inside" dir="1"><association>中</association><association>なか</association></dictTileContent>
+<dictTileContent text="チュウ" dir="2"><association>中</association><association>middle</association></dictTileContent>
+<dictTileContent text="middle" dir="1"><association>中</association><association>チュウ</association></dictTileContent>
+<dictTileContent text="分" dir="2"><association>minute</association><association>わ・ける</association><association>フン</association><association>to be understood</association><association>わ・かる</association><association>to divide</association></dictTileContent>
+<dictTileContent text="わ・ける" dir="2"><association>分</association><association>to divide</association></dictTileContent>
+<dictTileContent text="to divide" dir="1"><association>分</association><association>わ・ける</association></dictTileContent>
+<dictTileContent text="わ・かる" dir="2"><association>分</association><association>to be understood</association></dictTileContent>
+<dictTileContent text="to be understood" dir="1"><association>分</association><association>わ・かる</association></dictTileContent>
+<dictTileContent text="フン" dir="2"><association>minute</association><association>分</association></dictTileContent>
+<dictTileContent text="minute" dir="1"><association>フン</association><association>分</association></dictTileContent>
+<dictTileContent text="上" dir="2"><association>ジョウ</association><association>above</association><association>うえ</association></dictTileContent>
+<dictTileContent text="うえ" dir="2"><association>上</association><association>above</association></dictTileContent>
+<dictTileContent text="ジョウ" dir="2"><association>上</association><association>above</association></dictTileContent>
+<dictTileContent text="above" dir="1"><association>上</association><association>ジョウ</association><association>うえ</association></dictTileContent>
+<dictTileContent text="年" dir="2"><association>year</association><association>とし</association><association>ネン</association></dictTileContent>
+<dictTileContent text="とし" dir="2"><association>年</association><association>year</association></dictTileContent>
+<dictTileContent text="ネン" dir="2"><association>year</association><association>年</association></dictTileContent>
+<dictTileContent text="year" dir="1"><association>年</association><association>とし</association><association>ネン</association></dictTileContent>
+<dictTileContent text="円" dir="2"><association>エン</association><association>yen</association><association>まる</association><association>circle</association></dictTileContent>
+<dictTileContent text="エン" dir="2"><association>yen</association><association>円</association><association>circle</association></dictTileContent>
+<dictTileContent text="yen" dir="0"><association>エン</association><association>円</association></dictTileContent>
+<dictTileContent text="まる" dir="2"><association>円</association><association>circle</association></dictTileContent>
+<dictTileContent text="circle" dir="1"><association>エン</association><association>円</association><association>まる</association></dictTileContent>
+<dictTileContent text="下" dir="2"><association>した</association><association>under</association><association>ゲ</association></dictTileContent>
+<dictTileContent text="した" dir="2"><association>下</association><association>under</association></dictTileContent>
+<dictTileContent text="ゲ" dir="2"><association>下</association><association>under</association></dictTileContent>
+<dictTileContent text="under" dir="1"><association>下</association><association>した</association><association>ゲ</association></dictTileContent>
+<dictTileContent text="人" dir="2"><association>ジン</association><association>person</association><association>ひと</association></dictTileContent>
+<dictTileContent text="ひと" dir="2"><association>person</association><association>人</association></dictTileContent>
+<dictTileContent text="ジン" dir="2"><association>person</association><association>人</association></dictTileContent>
+<dictTileContent text="person" dir="1"><association>ジン</association><association>人</association><association>ひと</association></dictTileContent>
+<dictTileContent text="万" dir="2"><association>10000</association><association>よろず</association><association>マン</association></dictTileContent>
+<dictTileContent text="よろず" dir="2"><association>10000</association><association>万</association></dictTileContent>
+<dictTileContent text="マン" dir="2"><association>10000</association><association>万</association></dictTileContent>
+<dictTileContent text="10000" dir="1"><association>よろず</association><association>マン</association><association>万</association></dictTileContent>
+<dictTileContent text="百" dir="2"><association>もも</association><association>100</association><association>ヒャク</association></dictTileContent>
+<dictTileContent text="もも" dir="2"><association>百</association><association>100</association></dictTileContent>
+<dictTileContent text="ヒャク" dir="2"><association>百</association><association>100</association></dictTileContent>
+<dictTileContent text="100" dir="1"><association>百</association><association>もも</association><association>ヒャク</association></dictTileContent>
+<dictTileContent text="か" dir="2"><association>日</association><association>day</association></dictTileContent>
+<dictTileContent text="day" dir="0"><association>ひ</association><association>日</association><association>ニチ</association><association>か</association></dictTileContent>
+<dictTileContent text="ニチ" dir="2"><association>日</association><association>day</association><association>Sunday</association></dictTileContent>
+<dictTileContent text="Sunday" dir="1"><association>ニチ</association><association>日</association></dictTileContent>
+<dictTileContent text="日" dir="2"><association>ニチ</association><association>ひ</association><association>day</association><association>か</association><association>sun</association><association>Sunday</association></dictTileContent>
+<dictTileContent text="sun" dir="0"><association>ひ</association><association>日</association></dictTileContent>
+<dictTileContent text="ひ" dir="2"><association>日</association><association>火</association><association>day</association><association>fire</association><association>sun</association></dictTileContent>
+<dictTileContent text="fire" dir="0"><association>カ</association><association>ひ</association><association>火</association></dictTileContent>
+<dictTileContent text="カ" dir="2"><association>Tuesday</association><association>火</association><association>fire</association></dictTileContent>
+<dictTileContent text="Tuesday" dir="1"><association>カ</association><association>火</association></dictTileContent>
+<dictTileContent text="火" dir="2"><association>カ</association><association>ひ</association><association>Tuesday</association><association>fire</association></dictTileContent>
+<dictTileContent text="Monday" dir="1"><association>月</association><association>ゲツ</association></dictTileContent>
+<dictTileContent text="ゲツ" dir="2"><association>月</association><association>Monday</association><association>month</association></dictTileContent>
+<dictTileContent text="month" dir="1"><association>月</association><association>つき</association><association>ゲツ</association><association>ガツ</association></dictTileContent>
+<dictTileContent text="ガツ" dir="2"><association>月</association><association>month</association></dictTileContent>
+<dictTileContent text="moon" dir="1"><association>月</association><association>つき</association></dictTileContent>
+<dictTileContent text="つき" dir="2"><association>月</association><association>moon</association><association>month</association></dictTileContent>
+<dictTileContent text="月" dir="2"><association>つき</association><association>moon</association><association>Monday</association><association>month</association><association>ゲツ</association><association>ガツ</association></dictTileContent>
+<dictTileContent text="left" dir="0"><association>ひだり</association><association>左</association><association>サ</association></dictTileContent>
+<dictTileContent text="サ" dir="2"><association>左</association><association>left</association></dictTileContent>
+<dictTileContent text="ひだり" dir="2"><association>左</association><association>left</association></dictTileContent>
+<dictTileContent text="左" dir="2"><association>ひだり</association><association>left</association><association>サ</association></dictTileContent>
+<dictTileContent text="土" dir="2"><association>つち</association><association>Saturday</association><association>ド</association><association>earth</association></dictTileContent>
+<dictTileContent text="ド" dir="2"><association>Saturday</association><association>土</association><association>earth</association></dictTileContent>
+<dictTileContent text="Saturday" dir="1"><association>土</association><association>ド</association></dictTileContent>
+<dictTileContent text="つち" dir="2"><association>土</association><association>earth</association></dictTileContent>
+<dictTileContent text="earth" dir="1"><association>つち</association><association>土</association><association>ド</association></dictTileContent>
+<dictTileContent text="車" dir="2"><association>car</association><association>シャ</association><association>くるま</association></dictTileContent>
+<dictTileContent text="くるま" dir="2"><association>car</association><association>車</association></dictTileContent>
+<dictTileContent text="シャ" dir="2"><association>car</association><association>車</association></dictTileContent>
+<dictTileContent text="car" dir="0"><association>車</association><association>シャ</association><association>くるま</association></dictTileContent>
+<dictTileContent text="門" dir="2"><association>モン</association><association>かど</association><association>gate</association></dictTileContent>
+<dictTileContent text="かど" dir="2"><association>門</association><association>gate</association></dictTileContent>
+<dictTileContent text="モン" dir="2"><association>門</association><association>gate</association></dictTileContent>
+<dictTileContent text="gate" dir="1"><association>門</association><association>モン</association><association>かど</association></dictTileContent>
+<dictTileContent text="水" dir="2"><association>water</association><association>スイ</association><association>みず</association><association>Wednesday</association></dictTileContent>
+<dictTileContent text="スイ" dir="2"><association>water</association><association>水</association><association>Wednesday</association></dictTileContent>
+<dictTileContent text="Wednesday" dir="1"><association>スイ</association><association>水</association></dictTileContent>
+<dictTileContent text="みず" dir="2"><association>water</association><association>水</association></dictTileContent>
+<dictTileContent text="water" dir="1"><association>スイ</association><association>みず</association><association>水</association></dictTileContent>
+<dictTileContent text="金" dir="2"><association>キン</association><association>metal</association><association>money</association><association>gold</association><association>Friday</association><association>かね</association></dictTileContent>
+<dictTileContent text="キン" dir="2"><association>metal</association><association>金</association><association>money</association><association>gold</association><association>Friday</association></dictTileContent>
+<dictTileContent text="gold" dir="0"><association>キン</association><association>金</association></dictTileContent>
+<dictTileContent text="Friday" dir="1"><association>キン</association><association>金</association></dictTileContent>
+<dictTileContent text="かね" dir="2"><association>metal</association><association>金</association><association>money</association></dictTileContent>
+<dictTileContent text="money" dir="1"><association>キン</association><association>金</association><association>かね</association></dictTileContent>
+<dictTileContent text="metal" dir="1"><association>キン</association><association>金</association><association>かね</association></dictTileContent>
+<dictTileContent text="口" dir="2"><association>mouth</association><association>くち</association></dictTileContent>
+<dictTileContent text="くち" dir="2"><association>mouth</association><association>口</association></dictTileContent>
+<dictTileContent text="mouth" dir="1"><association>くち</association><association>口</association></dictTileContent>
+<dictTileContent text="生" dir="2"><association>to live</association><association>life</association><association>セイ</association><association>to be born</association><association>う・まれる</association><association>い・きる</association></dictTileContent>
+<dictTileContent text="セイ" dir="2"><association>生</association><association>life</association></dictTileContent>
+<dictTileContent text="life" dir="0"><association>生</association><association>セイ</association></dictTileContent>
+<dictTileContent text="い・きる" dir="2"><association>to live</association><association>生</association></dictTileContent>
+<dictTileContent text="to live" dir="1"><association>生</association><association>い・きる</association></dictTileContent>
+<dictTileContent text="う・まれる" dir="2"><association>生</association><association>to be born</association></dictTileContent>
+<dictTileContent text="to be born" dir="1"><association>生</association><association>う・まれる</association></dictTileContent>
+<dictTileContent text="先" dir="2"><association>さき</association><association>previous</association><association>セン</association></dictTileContent>
+<dictTileContent text="さき" dir="2"><association>previous</association><association>先</association></dictTileContent>
+<dictTileContent text="previous" dir="1"><association>さき</association><association>セン</association><association>先</association></dictTileContent>
+<dictTileContent text="セン" dir="2"><association>千</association><association>previous</association><association>先</association><association>1000</association></dictTileContent>
+<dictTileContent text="千" dir="2"><association>ち</association><association>セン</association><association>1000</association></dictTileContent>
+<dictTileContent text="ち" dir="2"><association>千</association><association>1000</association></dictTileContent>
+<dictTileContent text="1000" dir="1"><association>千</association><association>ち</association><association>セン</association></dictTileContent>
+<dictTileContent text="学" dir="2"><association>ガク</association><association>study</association></dictTileContent>
+<dictTileContent text="ガク" dir="2"><association>学</association><association>study</association></dictTileContent>
+<dictTileContent text="study" dir="1"><association>学</association><association>ガク</association></dictTileContent>
+<dictTileContent text="女" dir="2"><association>おんな</association><association>ジョ</association><association>woman</association></dictTileContent>
+<dictTileContent text="おんな" dir="2"><association>女</association><association>woman</association></dictTileContent>
+<dictTileContent text="ジョ" dir="2"><association>女</association><association>woman</association></dictTileContent>
+<dictTileContent text="woman" dir="1"><association>女</association><association>おんな</association><association>ジョ</association></dictTileContent>
+<dictTileContent text="川" dir="2"><association>かわ</association><association>river</association></dictTileContent>
+<dictTileContent text="かわ" dir="2"><association>川</association><association>river</association></dictTileContent>
+<dictTileContent text="river" dir="1"><association>かわ</association><association>川</association></dictTileContent>
+<dictTileContent text="田" dir="2"><association>rice field</association><association>デン</association><association>た</association></dictTileContent>
+<dictTileContent text="た" dir="2"><association>rice field</association><association>田</association></dictTileContent>
+<dictTileContent text="デン" dir="2"><association>rice field</association><association>田</association></dictTileContent>
+<dictTileContent text="rice field" dir="1"><association>デン</association><association>た</association><association>田</association></dictTileContent>
+</dictTileContents>

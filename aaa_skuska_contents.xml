@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictTileContents>
+<dictTileContent text="0" dir="0"><association>1</association></dictTileContent>
+<dictTileContent text="1" dir="1"><association>2</association><association>0</association></dictTileContent>
+<dictTileContent text="2" dir="2"><association>3</association><association>1</association></dictTileContent>
+<dictTileContent text="3" dir="0"><association>2</association><association>4</association></dictTileContent>
+<dictTileContent text="4" dir="1"><association>3</association><association>5</association></dictTileContent>
+<dictTileContent text="5" dir="2"><association>6</association><association>4</association></dictTileContent>
+<dictTileContent text="6" dir="0"><association>7</association><association>5</association></dictTileContent>
+<dictTileContent text="7" dir="1"><association>6</association><association>8</association></dictTileContent>
+<dictTileContent text="8" dir="2"><association>7</association><association>9</association></dictTileContent>
+<dictTileContent text="9" dir="0"><association>8</association></dictTileContent>
+</dictTileContents>

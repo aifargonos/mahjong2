@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictTileContents>
+<dictTileContent text="hohohof" dir="0"><association>blabla</association><association>hahaha</association></dictTileContent>
+<dictTileContent text="hahaha" dir="1"><association>hohohof</association></dictTileContent>
+<dictTileContent text="blabla" dir="2"><association>hohohof</association></dictTileContent>
+</dictTileContents>
